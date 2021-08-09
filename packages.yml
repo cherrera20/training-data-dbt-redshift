@@ -1,0 +1,5 @@
+# https://hub.getdbt.com/
+
+# packages:
+  # - package: fishtown-analytics/dbt_utils
+  #   version: 0.6.4
